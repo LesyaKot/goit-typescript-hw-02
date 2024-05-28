@@ -1,0 +1,18 @@
+.wrap {
+  display: flex;
+  justify-content: center;
+  border-color: #fff;
+}
+.btn {
+  border-color:  #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 24px;
+  width: 140px;
+  height: 55px;
+}
+.btn:hover,
+.btn:focus {
+  border-color: rgb(82, 82, 148);
+}
